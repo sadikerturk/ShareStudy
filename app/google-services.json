@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1063563354223",
+    "project_id": "sharestudy-a1df4",
+    "storage_bucket": "sharestudy-a1df4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063563354223:android:ab8ace65dbf9cbbe776d9a",
+        "android_client_info": {
+          "package_name": "com.sadikerturk.sharestudy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiViviuH5EKX433ozWhqvZA5K-Iq-QNik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
